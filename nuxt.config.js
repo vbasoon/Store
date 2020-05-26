@@ -29,7 +29,7 @@ module.exports = {
    loading: { color: '#ddd' },
    css: [
       'normalize.css',
-      './assets/scss/global-styles.scss'
+      // './assets/scss/global-styles.scss'
    ],
    plugins: [
    ],
